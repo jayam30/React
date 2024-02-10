@@ -1,3 +1,13 @@
 paste this in terminal 
 npm i bootstrap@5.3.2
   //you can find this on home page of bootstap https://getbootstrap.com/ here
+
+
+// to check go to package.json and check wheather package is there or not of bootstrap
+you will find this code in package.json
+
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
